@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股小白分析"
+  short_description: "面向股票小白的A股实时数据校验、双评分、行业周期与热点舆情分析"
+  default_prompt: "Use $analyze-a-shares-for-beginners to analyze an A-share with timestamped data, formulas, dual scores, and beginner-friendly reasoning."
