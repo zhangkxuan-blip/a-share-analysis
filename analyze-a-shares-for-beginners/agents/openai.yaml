@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股小白决策分析"
+  short_description: "单股与多股A股快照、双轴分层、估值证据和政策周期分析"
+  default_prompt: "Use $analyze-a-shares-for-beginners to produce a compact three-layer A-share report: freeze one validated quote snapshot, switch multi-stock requests to transparent business-quality and valuation/timing tiers, cover all 18 requested topics once, label facts/derived metrics/proxies/scenarios, and expose unavailable data instead of inventing precision."
